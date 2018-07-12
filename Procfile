@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT xavialansoyopmailcom_crowdb_72.wsgi:application
